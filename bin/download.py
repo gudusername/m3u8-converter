@@ -1,6 +1,5 @@
 import os
 import requests
-import pyuac
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 output_folder = os.path.join(dir_path, 'output')
